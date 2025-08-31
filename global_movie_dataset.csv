@@ -1,0 +1,501 @@
+Movie ID,Title,Release Year,Genre,Sub-Genre,Director,Production Studio,Country,Box Office Gross,Budget,Profit,IMDb Rating,Rotten Tomatoes Score,Duration (minutes),Language,Viewer Age Group
+MOV-0001,Movie-001,2006,Romance,Superhero,Director-002,Universal Pictures,India,642776858.93,95748516.47,747055425.27,2.1,10,168,English,13+
+MOV-0002,Movie-002,2019,Action,Period Romance,Director-073,Sony Pictures,Canada,27484799.23,18756559.09,523157718.74,9.1,59,106,Mandarin,18+
+MOV-0003,Movie-003,2014,Action,Historical,Director-088,Universal Pictures,Australia,586189805.69,236297439.08,191759727.06,1.6,75,143,French,13+
+MOV-0004,Movie-004,2010,Romance,Superhero,Director-100,Netflix Originals,USA,940290011.18,282638146.06,-143527307.73,5.8,41,142,Spanish,18+
+MOV-0005,Movie-005,2007,Drama,Biographical,Director-096,Warner Bros,France,575898703.7,33321465.39,228376885.02,2.3,5,94,Hindi,General
+MOV-0006,Movie-006,2020,Comedy,Period Romance,Director-007,Universal Pictures,France,388781756.28,387876044.54,524115482.74,1.1,65,127,Spanish,13+
+MOV-0007,Movie-007,2006,Comedy,Satire,Director-078,Netflix Originals,Australia,643644930.22,226917772.96,-116801311.11,4.8,17,128,Spanish,13+
+MOV-0008,Movie-008,2018,Comedy,Psychological,Director-096,Paramount,India,458794637.6,262432939.53,534217946.63,3.7,22,60,French,13+
+MOV-0009,Movie-009,2022,Romance,Period Romance,Director-064,Paramount,UK,546071172.53,220660992.1,359187713.88,5.4,98,127,English,18+
+MOV-0010,Movie-010,2010,Action,Dystopian,Director-037,Sony Pictures,UK,941523343.97,200681148.91,241037374.5,6.2,41,71,Japanese,General
+MOV-0011,Movie-011,2010,Romance,Superhero,Director-100,Sony Pictures,Germany,386716535.16,280040345.49,-336289221.77,1.4,93,119,Hindi,18+
+MOV-0012,Movie-012,2023,Romance,Rom-Com,Director-030,Paramount,Japan,961229373.26,78042502.84,694043858.69,2.1,68,86,Mandarin,18+
+MOV-0013,Movie-013,2020,Sci-Fi,Dystopian,Director-078,Netflix Originals,Australia,905445291.31,91373101.18,826298487.69,6.0,69,115,Hindi,13+
+MOV-0014,Movie-014,2003,Action,Historical,Director-046,Sony Pictures,Japan,196595343.65,430961917.7,114204903.42,4.1,11,165,English,18+
+MOV-0015,Movie-015,2007,Sci-Fi,Time Travel,Director-029,Netflix Originals,Japan,70291939.57,473084673.34,-124821183.44,7.6,56,82,Spanish,18+
+MOV-0016,Movie-016,2023,Horror,Rom-Com,Director-082,Netflix Originals,UK,101677223.38,186968003.48,562439926.68,6.9,51,84,Japanese,General
+MOV-0017,Movie-017,2002,Action,Slapstick,Director-025,Sony Pictures,India,19203603.83,135736964.24,74647048.28,8.6,21,80,Japanese,18+
+MOV-0018,Movie-018,2021,Action,Historical,Director-080,Disney,France,95348517.8,322177771.85,601357288.15,7.2,99,120,Japanese,General
+MOV-0019,Movie-019,2020,Action,Nature,Director-033,Netflix Originals,UK,683323766.64,204662718.46,72354416.1,4.9,76,122,Mandarin,13+
+MOV-0020,Movie-020,2001,Comedy,Biographical,Director-087,Disney,Australia,72117459.81,13180484.65,-118550528.28,7.1,26,111,French,General
+MOV-0021,Movie-021,2023,Comedy,Rom-Com,Director-097,Universal Pictures,Australia,319656654.66,78498222.38,599531667.23,3.5,19,147,Spanish,General
+MOV-0022,Movie-022,2011,Sci-Fi,Rom-Com,Director-093,Paramount,France,845030435.66,358128128.31,150481278.36,3.8,60,84,Hindi,13+
+MOV-0023,Movie-023,2005,Sci-Fi,Legal,Director-099,Warner Bros,India,24248663.8,329632508.98,260876443.39,8.1,71,168,Hindi,General
+MOV-0024,Movie-024,2001,Action,Historical,Director-085,Paramount,India,814654014.11,14034448.26,210748684.6,5.0,47,114,Spanish,General
+MOV-0025,Movie-025,2020,Sci-Fi,Time Travel,Director-088,Paramount,India,282572920.0,111375094.89,310629415.15,8.2,71,105,Hindi,13+
+MOV-0026,Movie-026,2000,Comedy,Slapstick,Director-018,Netflix Originals,Japan,119046662.79,115921860.9,-180237859.66,8.4,26,91,French,18+
+MOV-0027,Movie-027,2011,Romance,Nature,Director-081,Disney,USA,697040428.2,336110425.43,-45034341.36,8.7,40,114,Japanese,General
+MOV-0028,Movie-028,2021,Romance,Nature,Director-013,Disney,UK,629313903.93,10345413.61,651115378.7,9.2,5,155,Hindi,18+
+MOV-0029,Movie-029,2011,Romance,Slasher,Director-081,Sony Pictures,India,877594541.51,52502236.7,-121804908.48,4.9,21,64,French,13+
+MOV-0030,Movie-030,2016,Sci-Fi,Satire,Director-083,Warner Bros,Germany,735335972.76,400058084.64,576624146.22,3.9,78,95,Japanese,13+
+MOV-0031,Movie-031,2009,Horror,Historical,Director-006,Disney,India,803677449.45,89683058.7,94816915.69,6.2,4,169,Mandarin,18+
+MOV-0032,Movie-032,2015,Comedy,True Crime,Director-040,Sony Pictures,India,282752538.0,326546680.87,768538508.46,4.3,23,165,Mandarin,General
+MOV-0033,Movie-033,2014,Horror,True Crime,Director-057,Warner Bros,France,178262104.24,119472299.13,8026694.23,6.4,84,108,Spanish,18+
+MOV-0034,Movie-034,2014,Sci-Fi,Nature,Director-005,Disney,Canada,750864136.89,50170975.68,606483597.33,7.4,15,165,Spanish,13+
+MOV-0035,Movie-035,2018,Drama,Biographical,Director-075,Paramount,France,807027904.53,121964509.4,-41573318.86,7.2,93,117,French,13+
+MOV-0036,Movie-036,2011,Documentary,True Crime,Director-047,Paramount,Germany,990514636.86,361272332.46,186774952.14,4.4,8,98,Mandarin,General
+MOV-0037,Movie-037,2022,Documentary,Adventure,Director-094,Warner Bros,UK,413205059.23,427920385.82,-126623160.19,2.5,41,139,Mandarin,13+
+MOV-0038,Movie-038,2019,Action,Nature,Director-017,Warner Bros,Germany,372646067.71,415194822.35,-229547301.68,4.9,19,156,Mandarin,18+
+MOV-0039,Movie-039,2002,Documentary,Historical,Director-012,Disney,Canada,776636547.78,198893173.04,417838375.11,2.3,46,172,French,18+
+MOV-0040,Movie-040,2004,Documentary,Slapstick,Director-038,Disney,Germany,341462736.71,334208525.72,59901241.08,9.0,28,144,French,18+
+MOV-0041,Movie-041,2018,Comedy,Historical,Director-042,Warner Bros,India,930826568.28,102889655.56,462385370.15,4.1,91,120,Hindi,18+
+MOV-0042,Movie-042,2006,Romance,Historical,Director-096,Netflix Originals,Germany,858554339.09,146927291.27,123271903.73,2.4,68,68,Mandarin,General
+MOV-0043,Movie-043,2020,Horror,Nature,Director-054,Warner Bros,UK,429565033.35,448219741.35,155047203.37,1.2,15,65,Spanish,18+
+MOV-0044,Movie-044,2008,Drama,Slapstick,Director-023,Sony Pictures,India,751120196.72,6994460.79,439513249.56,6.8,99,174,Hindi,General
+MOV-0045,Movie-045,2006,Drama,Rom-Com,Director-026,Sony Pictures,India,754788331.21,43211511.16,315066443.32,6.7,37,168,Hindi,13+
+MOV-0046,Movie-046,2017,Comedy,Supernatural,Director-017,Sony Pictures,India,104020744.97,104339184.45,-109461277.82,4.1,1,94,Mandarin,13+
+MOV-0047,Movie-047,2003,Comedy,Biographical,Director-070,Paramount,France,902650353.77,13752835.83,165339405.11,1.6,67,98,Japanese,General
+MOV-0048,Movie-048,2013,Documentary,Historical,Director-047,Paramount,USA,505747120.08,91126999.83,-342980129.13,4.7,24,81,French,General
+MOV-0049,Movie-049,2017,Drama,Legal,Director-068,Sony Pictures,USA,826631008.64,291729259.7,718527591.26,3.8,27,100,Hindi,13+
+MOV-0050,Movie-050,2008,Action,Space Opera,Director-065,Sony Pictures,UK,320729551.43,211001563.02,291146698.62,7.1,40,177,Japanese,13+
+MOV-0051,Movie-051,2020,Action,Teen,Director-035,Netflix Originals,USA,895627705.27,446389519.68,373517205.07,6.5,63,64,Mandarin,18+
+MOV-0052,Movie-052,2001,Horror,Biographical,Director-022,Warner Bros,Germany,389812477.06,408813059.09,365268575.2,4.3,61,101,English,General
+MOV-0053,Movie-053,2019,Action,Adventure,Director-033,Paramount,Canada,11826813.83,171237767.17,621578077.52,3.0,36,146,Japanese,13+
+MOV-0054,Movie-054,2014,Drama,Satire,Director-062,Sony Pictures,Japan,905476594.44,130082005.0,421966667.67,9.9,98,140,English,General
+MOV-0055,Movie-055,2006,Documentary,Biographical,Director-038,Netflix Originals,USA,92195390.11,190156357.88,793533428.09,5.1,93,135,English,13+
+MOV-0056,Movie-056,2011,Drama,Martial Arts,Director-096,Universal Pictures,Australia,319994323.95,295352323.79,53486063.19,7.2,24,146,Mandarin,General
+MOV-0057,Movie-057,2007,Sci-Fi,Supernatural,Director-044,Disney,Germany,950111905.08,134397788.59,-325579355.75,2.3,24,139,English,General
+MOV-0058,Movie-058,2014,Drama,Period Romance,Director-015,Sony Pictures,Germany,950656539.79,312262379.47,-227689139.74,5.4,4,126,English,13+
+MOV-0059,Movie-059,2002,Documentary,Psychological,Director-060,Paramount,Australia,573864450.24,205001120.27,-126440841.25,1.2,67,89,French,18+
+MOV-0060,Movie-060,2013,Action,Dystopian,Director-010,Sony Pictures,Canada,632205374.96,276247566.84,307057348.31,5.5,34,116,Hindi,18+
+MOV-0061,Movie-061,2016,Romance,Psychological,Director-019,Universal Pictures,Japan,448997076.46,218345201.3,575494652.97,9.7,57,145,Mandarin,18+
+MOV-0062,Movie-062,2003,Horror,Rom-Com,Director-097,Warner Bros,Germany,293917560.93,147585646.89,-402850595.21,4.5,49,132,Hindi,13+
+MOV-0063,Movie-063,2017,Sci-Fi,Martial Arts,Director-029,Paramount,Australia,329335880.82,474252426.83,-173737840.83,1.4,87,88,English,13+
+MOV-0064,Movie-064,2007,Action,Slasher,Director-087,Warner Bros,UK,672845937.62,381921094.18,256679743.02,1.3,53,170,Mandarin,18+
+MOV-0065,Movie-065,2003,Horror,Time Travel,Director-093,Disney,USA,752622154.91,70486531.3,727336533.01,4.5,23,96,Hindi,13+
+MOV-0066,Movie-066,2001,Action,Teen,Director-087,Netflix Originals,India,791787464.68,434299753.96,-31121315.3,2.4,69,146,English,13+
+MOV-0067,Movie-067,2005,Sci-Fi,Teen,Director-051,Warner Bros,Australia,789828524.65,243971883.53,505620051.21,1.2,95,72,Hindi,18+
+MOV-0068,Movie-068,2021,Drama,Rom-Com,Director-072,Sony Pictures,Japan,92114896.95,447328837.33,-267453587.87,7.8,53,91,Japanese,13+
+MOV-0069,Movie-069,2009,Documentary,Historical,Director-047,Netflix Originals,Australia,494925884.4,400027700.35,-28873900.95,5.1,62,105,French,13+
+MOV-0070,Movie-070,2003,Romance,Martial Arts,Director-012,Universal Pictures,Australia,58501201.26,212894145.48,589441925.86,3.6,41,175,Spanish,General
+MOV-0071,Movie-071,2021,Sci-Fi,Legal,Director-051,Warner Bros,Canada,549979353.44,11723419.51,918204753.15,9.1,57,170,English,General
+MOV-0072,Movie-072,2017,Documentary,Legal,Director-002,Universal Pictures,France,442088970.87,134704341.01,-288371991.39,2.0,60,171,Japanese,18+
+MOV-0073,Movie-073,2011,Drama,Nature,Director-034,Netflix Originals,India,887816478.58,271046290.22,711114015.14,9.6,54,82,Mandarin,General
+MOV-0074,Movie-074,2001,Sci-Fi,Period Romance,Director-069,Paramount,France,351564097.54,316922370.8,318139217.69,3.8,70,104,Mandarin,General
+MOV-0075,Movie-075,2009,Comedy,Space Opera,Director-016,Paramount,France,117949949.41,129314898.87,835156005.78,9.0,57,76,Japanese,13+
+MOV-0076,Movie-076,2003,Romance,Period Romance,Director-059,Sony Pictures,France,143848690.37,70108359.0,165083213.96,6.4,10,178,French,General
+MOV-0077,Movie-077,2013,Action,Historical,Director-048,Sony Pictures,Japan,761749121.09,417547653.28,235118880.86,8.4,40,163,Mandarin,13+
+MOV-0078,Movie-078,2015,Action,Period Romance,Director-087,Sony Pictures,India,618599845.25,492208889.26,208808016.52,9.9,7,144,French,General
+MOV-0079,Movie-079,2014,Romance,Dystopian,Director-096,Universal Pictures,France,102021553.45,263082246.06,365255303.82,3.6,38,125,English,18+
+MOV-0080,Movie-080,2007,Comedy,Rom-Com,Director-087,Disney,UK,85022699.31,86253803.28,-197884131.14,9.7,85,160,English,13+
+MOV-0081,Movie-081,2013,Documentary,Period Romance,Director-034,Disney,France,701268162.33,136517509.6,-371648389.06,4.5,61,65,Japanese,General
+MOV-0082,Movie-082,2022,Drama,Teen,Director-075,Disney,Canada,73690243.36,9686142.94,173346561.95,4.5,84,167,Japanese,13+
+MOV-0083,Movie-083,2007,Action,Satire,Director-049,Paramount,Australia,822038199.23,457192253.88,292363901.59,4.1,3,77,French,18+
+MOV-0084,Movie-084,2020,Documentary,Space Opera,Director-082,Paramount,UK,706535984.93,59316665.9,-46727114.62,5.9,51,153,English,18+
+MOV-0085,Movie-085,2015,Comedy,Psychological,Director-048,Disney,Germany,82267431.86,288469979.52,634768390.46,2.4,86,81,English,13+
+MOV-0086,Movie-086,2012,Documentary,Nature,Director-014,Netflix Originals,Australia,85752876.37,137390582.73,940195944.9,6.0,47,177,Japanese,18+
+MOV-0087,Movie-087,2017,Action,Historical,Director-087,Sony Pictures,Canada,986652938.92,277311912.26,-72645225.12,5.9,68,92,Mandarin,18+
+MOV-0088,Movie-088,2014,Horror,Rom-Com,Director-030,Warner Bros,India,374896524.96,325884483.98,280373476.04,7.9,92,89,Spanish,General
+MOV-0089,Movie-089,2020,Drama,True Crime,Director-061,Netflix Originals,UK,371271504.92,414956030.95,90319842.18,8.5,76,140,Japanese,18+
+MOV-0090,Movie-090,2023,Horror,Time Travel,Director-004,Netflix Originals,USA,812986767.69,103607425.24,473860937.27,5.0,38,166,Spanish,General
+MOV-0091,Movie-091,2012,Romance,Historical,Director-080,Disney,Germany,947301328.81,5992416.41,-80903254.03,3.7,36,91,English,13+
+MOV-0092,Movie-092,2008,Documentary,Supernatural,Director-072,Warner Bros,Japan,986015062.76,68874372.22,472553926.8,3.3,41,101,Japanese,18+
+MOV-0093,Movie-093,2014,Drama,Rom-Com,Director-042,Disney,Japan,753624807.07,450059311.6,764124637.27,2.8,69,174,Mandarin,13+
+MOV-0094,Movie-094,2012,Comedy,Space Opera,Director-079,Warner Bros,Canada,376883325.95,437008093.74,780237324.83,1.5,13,137,Mandarin,18+
+MOV-0095,Movie-095,2000,Drama,True Crime,Director-029,Sony Pictures,India,84417215.98,298907844.53,466272106.86,4.1,87,69,French,General
+MOV-0096,Movie-096,2006,Drama,Satire,Director-083,Netflix Originals,France,777369769.01,300458171.79,452921674.62,3.4,58,170,Hindi,18+
+MOV-0097,Movie-097,2008,Comedy,Adventure,Director-009,Paramount,France,558845845.49,332685818.94,507533722.58,9.7,50,174,English,13+
+MOV-0098,Movie-098,2023,Romance,Time Travel,Director-082,Disney,Canada,424797787.24,88097953.67,569722545.11,6.0,30,95,English,18+
+MOV-0099,Movie-099,2000,Drama,Teen,Director-060,Disney,India,906448030.71,457248766.99,203075411.33,4.1,62,93,Japanese,General
+MOV-0100,Movie-100,2011,Romance,Biographical,Director-090,Netflix Originals,Australia,112086284.82,209675877.18,-467817909.3,6.2,25,132,Hindi,13+
+MOV-0101,Movie-101,2007,Romance,Nature,Director-039,Netflix Originals,Australia,493132479.19,191877694.86,464427637.81,2.3,27,165,Hindi,General
+MOV-0102,Movie-102,2023,Romance,Period Romance,Director-084,Sony Pictures,Australia,12342291.12,259699393.79,368375907.11,5.0,51,87,Hindi,18+
+MOV-0103,Movie-103,2010,Action,Slapstick,Director-053,Universal Pictures,Germany,469191981.35,23959500.4,465923469.77,6.6,78,70,Japanese,18+
+MOV-0104,Movie-104,2018,Sci-Fi,Slapstick,Director-015,Disney,Australia,57246972.41,83558542.69,-101811116.43,5.4,57,137,Japanese,General
+MOV-0105,Movie-105,2016,Romance,Superhero,Director-018,Warner Bros,USA,119699098.35,369147791.4,266293601.53,4.6,47,98,Spanish,13+
+MOV-0106,Movie-106,2007,Comedy,Psychological,Director-006,Sony Pictures,UK,118408720.53,41857934.63,334861613.88,9.9,100,178,Spanish,General
+MOV-0107,Movie-107,2002,Sci-Fi,Nature,Director-005,Netflix Originals,Japan,649561091.81,301774478.68,446334251.66,8.9,39,106,Spanish,13+
+MOV-0108,Movie-108,2002,Romance,Supernatural,Director-039,Universal Pictures,Australia,746298834.39,123051880.29,-312494804.4,6.6,16,177,French,13+
+MOV-0109,Movie-109,2000,Comedy,Teen,Director-064,Disney,Canada,583785396.33,194953159.21,465962899.81,6.1,22,78,English,13+
+MOV-0110,Movie-110,2004,Comedy,Satire,Director-015,Disney,Canada,962210375.93,144702521.52,713264112.57,6.6,85,177,Spanish,General
+MOV-0111,Movie-111,2009,Horror,Period Romance,Director-013,Netflix Originals,France,375495708.94,178158521.87,-244926968.93,2.8,54,74,French,13+
+MOV-0112,Movie-112,2006,Horror,Supernatural,Director-031,Netflix Originals,USA,286426374.2,359663429.64,884551121.6,4.6,21,87,French,General
+MOV-0113,Movie-113,2008,Drama,Slapstick,Director-069,Netflix Originals,USA,868730529.06,148912296.95,226064449.66,1.4,72,83,Japanese,General
+MOV-0114,Movie-114,2006,Romance,Teen,Director-018,Paramount,Germany,224372242.68,283419117.83,703294308.16,5.3,16,131,Hindi,General
+MOV-0115,Movie-115,2008,Romance,Superhero,Director-050,Universal Pictures,Australia,963259316.9,238287175.9,769017842.66,5.9,59,166,Mandarin,18+
+MOV-0116,Movie-116,2007,Sci-Fi,Historical,Director-059,Sony Pictures,Australia,13142320.22,332003747.1,554865458.66,3.0,31,68,Hindi,18+
+MOV-0117,Movie-117,2011,Comedy,Slapstick,Director-048,Netflix Originals,Germany,969908947.88,468446454.79,322778086.73,9.7,42,106,Spanish,18+
+MOV-0118,Movie-118,2001,Romance,True Crime,Director-086,Warner Bros,USA,44116752.04,366419762.56,741738176.16,9.2,74,92,Mandarin,13+
+MOV-0119,Movie-119,2000,Drama,Space Opera,Director-096,Disney,UK,891251970.58,107862719.11,145455837.59,7.5,32,121,English,18+
+MOV-0120,Movie-120,2015,Documentary,Martial Arts,Director-090,Sony Pictures,Japan,528173407.98,16075975.96,177992704.39,5.8,59,156,Mandarin,18+
+MOV-0121,Movie-121,2022,Documentary,Slapstick,Director-070,Paramount,India,992971831.32,131500890.13,197556509.24,8.8,34,78,Mandarin,18+
+MOV-0122,Movie-122,2022,Documentary,Slasher,Director-054,Netflix Originals,Germany,74722768.17,297741426.38,678019364.95,2.2,9,126,English,13+
+MOV-0123,Movie-123,2023,Action,Historical,Director-076,Disney,France,554300430.12,26187193.84,547409271.68,8.1,81,133,English,General
+MOV-0124,Movie-124,2004,Comedy,Teen,Director-096,Universal Pictures,Japan,969333233.08,248434940.48,361587075.09,2.1,11,99,French,18+
+MOV-0125,Movie-125,2002,Documentary,Time Travel,Director-094,Netflix Originals,France,523574746.33,298623003.03,15101914.89,8.1,96,106,French,General
+MOV-0126,Movie-126,2011,Action,Historical,Director-020,Netflix Originals,USA,629769239.5,167454823.46,724558723.74,3.5,10,165,French,General
+MOV-0127,Movie-127,2007,Documentary,Time Travel,Director-054,Netflix Originals,Japan,696052940.3,385570645.77,-280331486.93,8.9,86,124,Japanese,General
+MOV-0128,Movie-128,2021,Drama,Space Opera,Director-084,Netflix Originals,USA,455086523.7,53745827.44,315580258.94,9.5,17,88,French,General
+MOV-0129,Movie-129,2002,Horror,True Crime,Director-013,Sony Pictures,Canada,627930522.0,38031321.98,-234990049.77,2.3,68,109,English,18+
+MOV-0130,Movie-130,2000,Drama,Slasher,Director-063,Warner Bros,France,584729997.61,364230283.72,258087997.85,5.2,48,157,Mandarin,13+
+MOV-0131,Movie-131,2002,Action,Period Romance,Director-079,Netflix Originals,Germany,901256852.48,247997912.44,326334617.21,9.8,52,174,English,18+
+MOV-0132,Movie-132,2004,Comedy,Supernatural,Director-053,Netflix Originals,UK,46400933.96,344356997.02,32670835.08,5.4,25,72,Mandarin,13+
+MOV-0133,Movie-133,2014,Sci-Fi,Nature,Director-036,Paramount,Japan,281682226.4,217696255.63,447289393.88,8.8,21,177,Hindi,18+
+MOV-0134,Movie-134,2013,Romance,True Crime,Director-005,Sony Pictures,Australia,950461072.59,123577815.6,170462617.21,6.3,65,60,English,18+
+MOV-0135,Movie-135,2002,Drama,Legal,Director-089,Disney,Germany,890373520.11,409641607.68,84355568.79,4.4,63,93,French,General
+MOV-0136,Movie-136,2000,Comedy,Psychological,Director-048,Warner Bros,UK,456201096.03,399808231.55,-144567106.3,3.6,89,152,French,13+
+MOV-0137,Movie-137,2004,Romance,Rom-Com,Director-028,Disney,India,620512465.2,347500887.19,294003910.09,2.8,51,107,Mandarin,18+
+MOV-0138,Movie-138,2022,Horror,Slasher,Director-057,Disney,UK,278103801.8,136436496.05,-77265104.53,7.9,36,170,Spanish,13+
+MOV-0139,Movie-139,2013,Horror,Period Romance,Director-057,Universal Pictures,Japan,188933038.56,295320218.1,6013363.75,4.5,81,136,Japanese,13+
+MOV-0140,Movie-140,2006,Romance,Rom-Com,Director-031,Universal Pictures,France,464234706.54,180806461.52,228033289.32,5.6,88,107,English,18+
+MOV-0141,Movie-141,2008,Horror,Historical,Director-047,Disney,France,353998875.8,46245245.63,339895485.2,5.4,66,108,Japanese,13+
+MOV-0142,Movie-142,2014,Comedy,Dystopian,Director-013,Paramount,France,584072455.74,458698130.94,141541852.43,6.2,15,176,English,18+
+MOV-0143,Movie-143,2014,Drama,Slapstick,Director-088,Universal Pictures,India,78656902.33,68840906.14,429086020.59,8.8,96,123,Hindi,18+
+MOV-0144,Movie-144,2009,Comedy,Rom-Com,Director-048,Universal Pictures,Canada,974420412.86,475143558.23,351407161.18,9.8,39,120,Hindi,General
+MOV-0145,Movie-145,2012,Comedy,Rom-Com,Director-070,Universal Pictures,Japan,986224533.74,223279883.59,722017872.11,4.7,70,88,Mandarin,General
+MOV-0146,Movie-146,2018,Romance,Rom-Com,Director-083,Universal Pictures,USA,698463552.31,92973897.95,388340714.32,8.4,1,98,Japanese,13+
+MOV-0147,Movie-147,2006,Sci-Fi,Adventure,Director-046,Warner Bros,USA,536560269.98,271179523.22,355836785.62,7.9,23,147,French,General
+MOV-0148,Movie-148,2016,Sci-Fi,Supernatural,Director-008,Disney,USA,310218088.67,436536445.02,-426557739.23,6.2,39,85,Spanish,13+
+MOV-0149,Movie-149,2019,Drama,Space Opera,Director-051,Warner Bros,India,813981224.69,366246330.76,216758252.97,9.6,57,76,English,18+
+MOV-0150,Movie-150,2003,Romance,Slasher,Director-036,Sony Pictures,France,685046441.38,403377293.36,244476534.97,2.8,81,130,English,General
+MOV-0151,Movie-151,2004,Sci-Fi,Rom-Com,Director-025,Sony Pictures,Australia,163454322.41,329562291.67,19604526.04,2.0,34,72,Mandarin,18+
+MOV-0152,Movie-152,2022,Horror,Psychological,Director-016,Netflix Originals,Australia,911016257.31,346292143.98,355447145.55,8.7,41,128,Spanish,General
+MOV-0153,Movie-153,2006,Sci-Fi,Rom-Com,Director-059,Sony Pictures,India,822714705.68,424673227.96,145602020.98,5.0,93,85,Japanese,General
+MOV-0154,Movie-154,2012,Horror,True Crime,Director-012,Warner Bros,India,949850113.38,125209170.43,575146792.0,8.6,73,108,Japanese,General
+MOV-0155,Movie-155,2014,Drama,Supernatural,Director-085,Netflix Originals,France,725993788.88,244967769.34,521076567.04,9.0,13,126,Mandarin,18+
+MOV-0156,Movie-156,2010,Comedy,Adventure,Director-028,Disney,France,613801780.74,110994116.19,795882759.69,1.6,70,66,English,13+
+MOV-0157,Movie-157,2003,Comedy,Historical,Director-083,Sony Pictures,India,418824793.25,493840169.99,686609678.02,9.0,6,117,Hindi,General
+MOV-0158,Movie-158,2012,Sci-Fi,Historical,Director-082,Universal Pictures,Japan,932795754.87,472057640.17,502302664.31,5.0,84,108,Spanish,18+
+MOV-0159,Movie-159,2006,Horror,Time Travel,Director-077,Sony Pictures,Germany,866197825.61,20193692.28,-50838712.78,5.6,52,162,English,13+
+MOV-0160,Movie-160,2018,Action,Teen,Director-003,Paramount,France,46173451.44,352934798.67,-69861923.1,6.6,3,112,Hindi,13+
+MOV-0161,Movie-161,2021,Documentary,True Crime,Director-007,Universal Pictures,Australia,27340607.52,462661534.55,-197286941.4,9.3,81,124,Japanese,General
+MOV-0162,Movie-162,2001,Action,Rom-Com,Director-043,Universal Pictures,Germany,377086903.51,90697384.89,473829247.97,1.2,63,172,Hindi,18+
+MOV-0163,Movie-163,2009,Documentary,Rom-Com,Director-032,Universal Pictures,Australia,810742777.45,284188642.66,448165762.23,5.3,49,121,Mandarin,18+
+MOV-0164,Movie-164,2012,Action,Supernatural,Director-017,Netflix Originals,USA,987288853.19,457786404.65,232838027.59,7.2,76,76,French,13+
+MOV-0165,Movie-165,2020,Comedy,Adventure,Director-073,Sony Pictures,France,151266474.21,17456016.3,595044562.01,7.5,47,102,English,18+
+MOV-0166,Movie-166,2005,Romance,Legal,Director-027,Universal Pictures,France,594536584.64,348861423.49,-420508396.99,7.2,55,84,Spanish,13+
+MOV-0167,Movie-167,2011,Comedy,Period Romance,Director-009,Netflix Originals,UK,381509965.77,149025829.18,654197583.14,2.2,64,62,Hindi,13+
+MOV-0168,Movie-168,2011,Documentary,Rom-Com,Director-098,Paramount,Japan,969944483.42,462235899.59,-116171755.23,3.7,65,138,Japanese,13+
+MOV-0169,Movie-169,2019,Romance,Historical,Director-071,Warner Bros,Germany,842276804.21,485543593.46,75716596.92,4.2,81,88,Hindi,General
+MOV-0170,Movie-170,2010,Horror,Satire,Director-027,Paramount,USA,838490376.01,472161111.31,276698624.55,8.2,67,176,Japanese,18+
+MOV-0171,Movie-171,2022,Sci-Fi,Dystopian,Director-076,Disney,Australia,469224466.64,237370001.22,127070974.57,3.5,90,166,French,General
+MOV-0172,Movie-172,2006,Action,Psychological,Director-028,Netflix Originals,Germany,415404682.84,431090304.17,-79957042.95,2.9,15,91,Mandarin,13+
+MOV-0173,Movie-173,2000,Horror,Time Travel,Director-030,Netflix Originals,Canada,274133664.86,422352424.57,-182675221.74,9.6,100,85,Japanese,18+
+MOV-0174,Movie-174,2000,Horror,Superhero,Director-043,Universal Pictures,USA,57319121.15,159890686.39,674586105.74,1.1,32,75,Spanish,18+
+MOV-0175,Movie-175,2019,Sci-Fi,Period Romance,Director-100,Paramount,Australia,864857653.88,414543279.34,212361901.96,10.0,96,84,French,13+
+MOV-0176,Movie-176,2012,Horror,Rom-Com,Director-019,Sony Pictures,India,813088108.12,18985313.54,212546623.89,7.1,68,113,Mandarin,18+
+MOV-0177,Movie-177,2008,Sci-Fi,Slapstick,Director-077,Disney,Japan,999717955.61,298336804.3,327840987.37,8.5,18,87,Hindi,13+
+MOV-0178,Movie-178,2002,Drama,Historical,Director-001,Netflix Originals,India,996640200.24,115389414.23,484200246.45,3.7,83,132,Mandarin,13+
+MOV-0179,Movie-179,2006,Sci-Fi,Biographical,Director-036,Paramount,Canada,555876273.9,60723159.45,-212665285.42,1.1,43,179,Mandarin,13+
+MOV-0180,Movie-180,2005,Documentary,Supernatural,Director-019,Universal Pictures,USA,769218427.77,38938124.21,109676179.71,7.6,35,115,English,13+
+MOV-0181,Movie-181,2007,Action,Historical,Director-017,Sony Pictures,UK,944820964.15,348296243.55,-52314225.61,8.5,78,124,Japanese,18+
+MOV-0182,Movie-182,2008,Romance,Historical,Director-070,Universal Pictures,Canada,849797743.29,170267544.4,124477355.63,7.7,58,152,Mandarin,General
+MOV-0183,Movie-183,2004,Romance,Biographical,Director-033,Disney,USA,248100753.64,362521002.38,605388945.16,2.3,33,145,Spanish,18+
+MOV-0184,Movie-184,2000,Action,Slasher,Director-023,Paramount,Australia,451093591.17,33145492.23,69211102.84,7.8,14,139,English,General
+MOV-0185,Movie-185,2018,Romance,Teen,Director-015,Universal Pictures,France,130030255.74,157987523.75,399780372.94,7.9,34,100,English,18+
+MOV-0186,Movie-186,2009,Sci-Fi,Adventure,Director-085,Disney,Japan,954096976.23,269975900.54,283954494.57,6.9,61,174,French,13+
+MOV-0187,Movie-187,2011,Documentary,Satire,Director-004,Netflix Originals,India,606568459.82,395466220.84,-173060736.58,7.9,4,167,Hindi,18+
+MOV-0188,Movie-188,2023,Drama,Martial Arts,Director-017,Sony Pictures,Japan,229414162.7,159716875.21,305811147.18,8.6,88,110,English,18+
+MOV-0189,Movie-189,2014,Documentary,Superhero,Director-002,Paramount,Canada,672028983.72,313132742.53,199479169.42,6.5,59,177,Spanish,18+
+MOV-0190,Movie-190,2021,Romance,Slapstick,Director-046,Paramount,Japan,618510112.22,443045885.24,532824171.53,1.8,29,164,Japanese,13+
+MOV-0191,Movie-191,2023,Drama,Nature,Director-031,Disney,Australia,358804555.31,308123662.5,122516356.62,5.4,83,130,Japanese,General
+MOV-0192,Movie-192,2008,Action,Dystopian,Director-076,Paramount,USA,114444034.61,116863257.64,771886210.46,1.7,6,137,Japanese,18+
+MOV-0193,Movie-193,2019,Drama,Slapstick,Director-042,Sony Pictures,India,671901622.4,12688190.39,196612684.55,4.7,97,88,French,13+
+MOV-0194,Movie-194,2016,Horror,Psychological,Director-003,Sony Pictures,Canada,520787393.2,435114387.51,-227628219.24,4.7,49,142,Spanish,General
+MOV-0195,Movie-195,2016,Comedy,Martial Arts,Director-023,Paramount,France,772546073.34,11124070.72,592196414.02,1.6,40,78,English,13+
+MOV-0196,Movie-196,2019,Horror,Rom-Com,Director-034,Universal Pictures,Australia,520643337.61,437413485.51,722030768.42,4.1,83,125,Mandarin,General
+MOV-0197,Movie-197,2011,Action,Period Romance,Director-007,Universal Pictures,Japan,852329318.82,264704098.45,359404412.9,2.0,65,100,Spanish,13+
+MOV-0198,Movie-198,2006,Romance,Historical,Director-017,Sony Pictures,France,552354931.94,469564315.41,736065287.76,8.3,69,104,French,13+
+MOV-0199,Movie-199,2001,Romance,Satire,Director-095,Universal Pictures,India,561377033.56,399492226.27,411446032.46,9.5,27,74,French,13+
+MOV-0200,Movie-200,2002,Drama,Time Travel,Director-054,Disney,Australia,876776949.06,498968088.21,-196211005.88,1.7,80,62,Hindi,13+
+MOV-0201,Movie-201,2016,Sci-Fi,Rom-Com,Director-068,Warner Bros,France,404079383.35,175680551.82,-121843862.43,9.6,6,70,Spanish,13+
+MOV-0202,Movie-202,2004,Documentary,Nature,Director-015,Netflix Originals,France,134881213.22,383710550.32,379953375.14,5.7,13,112,Japanese,18+
+MOV-0203,Movie-203,2016,Comedy,Biographical,Director-096,Paramount,Germany,29753893.64,201264491.35,205440553.32,3.7,64,105,French,18+
+MOV-0204,Movie-204,2023,Sci-Fi,Dystopian,Director-009,Disney,Australia,755382118.42,240197872.34,514360194.72,1.7,62,89,French,General
+MOV-0205,Movie-205,2016,Action,Legal,Director-061,Sony Pictures,Canada,620689241.8,313938978.88,627179881.51,5.5,99,116,Hindi,18+
+MOV-0206,Movie-206,2016,Documentary,Period Romance,Director-058,Warner Bros,Canada,704375688.33,436901718.54,322462541.54,8.2,19,163,Mandarin,13+
+MOV-0207,Movie-207,2001,Romance,Psychological,Director-100,Netflix Originals,Germany,213751197.35,492049692.87,-18861384.65,7.4,76,77,Japanese,13+
+MOV-0208,Movie-208,2001,Drama,Slapstick,Director-047,Sony Pictures,Germany,137235104.11,384252570.23,377446382.92,1.5,80,110,Mandarin,18+
+MOV-0209,Movie-209,2021,Documentary,Time Travel,Director-066,Warner Bros,Canada,15530121.0,209174507.69,45640910.65,1.7,43,107,French,General
+MOV-0210,Movie-210,2022,Romance,True Crime,Director-076,Disney,Germany,351236971.25,210967822.64,796339393.71,4.6,74,125,English,General
+MOV-0211,Movie-211,2004,Sci-Fi,Slapstick,Director-014,Warner Bros,Germany,590327769.17,368922359.64,31068554.8,3.7,89,155,Japanese,General
+MOV-0212,Movie-212,2000,Sci-Fi,Period Romance,Director-058,Universal Pictures,Canada,392851801.05,119769184.31,566801140.22,3.1,20,67,Spanish,18+
+MOV-0213,Movie-213,2000,Comedy,True Crime,Director-065,Disney,Australia,438037447.1,55681819.51,-33241328.51,3.5,95,81,Hindi,13+
+MOV-0214,Movie-214,2018,Comedy,Dystopian,Director-029,Paramount,France,904254535.8,177633767.74,541464641.81,8.2,68,65,Mandarin,General
+MOV-0215,Movie-215,2001,Drama,True Crime,Director-079,Sony Pictures,Australia,348907211.56,143975876.33,286873486.16,9.4,44,135,English,General
+MOV-0216,Movie-216,2020,Documentary,Nature,Director-006,Universal Pictures,France,514475499.67,148505906.17,208524477.62,4.6,23,170,English,General
+MOV-0217,Movie-217,2011,Comedy,Legal,Director-094,Paramount,Germany,783869359.73,117187071.65,-91087043.29,9.2,2,116,Spanish,13+
+MOV-0218,Movie-218,2005,Sci-Fi,Psychological,Director-085,Warner Bros,Germany,397146239.54,21525548.22,634298674.76,3.9,22,163,Hindi,13+
+MOV-0219,Movie-219,2022,Documentary,Biographical,Director-067,Universal Pictures,UK,622464613.53,9428030.4,423958156.43,5.3,57,95,French,General
+MOV-0220,Movie-220,2003,Sci-Fi,Time Travel,Director-039,Paramount,Japan,862501345.04,493867333.67,-222328076.26,3.0,72,138,Mandarin,13+
+MOV-0221,Movie-221,2022,Action,Biographical,Director-059,Disney,Japan,949571103.03,214172680.3,-338735082.35,6.8,7,151,Mandarin,General
+MOV-0222,Movie-222,2010,Sci-Fi,Historical,Director-083,Warner Bros,France,147926407.45,192471160.26,-95163760.12,9.8,78,175,Hindi,18+
+MOV-0223,Movie-223,2023,Drama,Historical,Director-004,Paramount,India,926661037.54,339983817.71,416435476.52,6.4,56,116,Mandarin,General
+MOV-0224,Movie-224,2016,Horror,Adventure,Director-008,Warner Bros,Germany,492624176.79,109517816.99,114984608.81,4.2,67,108,French,18+
+MOV-0225,Movie-225,2005,Action,Legal,Director-062,Paramount,USA,258986143.91,475005611.38,161030483.38,6.8,16,104,Spanish,13+
+MOV-0226,Movie-226,2023,Action,Historical,Director-052,Sony Pictures,Germany,459676620.48,393279334.7,218645022.12,2.1,83,141,Spanish,General
+MOV-0227,Movie-227,2004,Drama,Rom-Com,Director-055,Disney,UK,980052542.71,45160795.65,358445396.57,9.0,51,125,English,13+
+MOV-0228,Movie-228,2019,Documentary,Slasher,Director-088,Universal Pictures,France,493125475.9,209081597.5,362648136.13,5.5,82,136,English,General
+MOV-0229,Movie-229,2001,Documentary,Teen,Director-014,Paramount,Australia,329422858.68,439619594.63,42614599.17,5.0,80,104,English,18+
+MOV-0230,Movie-230,2005,Drama,Period Romance,Director-063,Warner Bros,Germany,633767453.46,472393645.13,718216186.62,6.3,72,177,Spanish,13+
+MOV-0231,Movie-231,2021,Comedy,Time Travel,Director-092,Disney,Australia,240905473.16,233967054.87,-111854034.96,6.6,97,138,French,13+
+MOV-0232,Movie-232,2010,Action,Historical,Director-057,Universal Pictures,Canada,76787464.78,306898988.91,642265296.37,1.6,12,79,Spanish,General
+MOV-0233,Movie-233,2015,Comedy,Supernatural,Director-010,Warner Bros,Canada,129750842.19,83933456.07,76352787.03,7.1,53,123,Spanish,13+
+MOV-0234,Movie-234,2015,Sci-Fi,True Crime,Director-011,Disney,Germany,128917793.12,495588728.76,17630886.59,3.2,75,152,English,18+
+MOV-0235,Movie-235,2000,Action,Space Opera,Director-042,Warner Bros,Germany,152750790.82,116220014.84,527360374.14,7.4,5,165,Hindi,18+
+MOV-0236,Movie-236,2008,Action,Biographical,Director-078,Netflix Originals,India,139688345.48,471394521.18,304825595.64,8.4,27,152,English,General
+MOV-0237,Movie-237,2005,Romance,Nature,Director-019,Netflix Originals,UK,641233870.06,324998501.17,509008649.09,8.2,12,126,Hindi,General
+MOV-0238,Movie-238,2015,Horror,Historical,Director-009,Disney,Canada,182698204.31,304064529.04,26984548.83,6.0,17,142,French,13+
+MOV-0239,Movie-239,2002,Documentary,Rom-Com,Director-017,Universal Pictures,Canada,346321616.04,256587911.25,-156897611.05,5.7,6,62,French,18+
+MOV-0240,Movie-240,2019,Action,Time Travel,Director-036,Universal Pictures,USA,896891621.5,115719570.95,580689068.25,2.3,97,113,Japanese,13+
+MOV-0241,Movie-241,2003,Documentary,Period Romance,Director-080,Warner Bros,Canada,474487678.62,88675751.99,182277747.78,8.0,5,137,Japanese,18+
+MOV-0242,Movie-242,2018,Sci-Fi,Biographical,Director-082,Disney,Canada,667890180.78,110632861.43,-14121380.36,3.4,57,123,Japanese,18+
+MOV-0243,Movie-243,2002,Documentary,Supernatural,Director-075,Paramount,USA,173147551.33,93625911.94,-237133967.95,5.5,28,99,French,General
+MOV-0244,Movie-244,2018,Comedy,Rom-Com,Director-071,Netflix Originals,UK,193096729.79,389902444.55,-312485531.38,3.6,78,118,English,13+
+MOV-0245,Movie-245,2019,Comedy,Rom-Com,Director-092,Universal Pictures,Japan,41827747.65,175387566.95,696009432.69,2.2,69,114,English,18+
+MOV-0246,Movie-246,2006,Romance,Historical,Director-042,Netflix Originals,France,169766128.01,29392416.94,-264912031.78,6.7,59,121,English,General
+MOV-0247,Movie-247,2019,Horror,Historical,Director-049,Paramount,Australia,279311748.69,484566763.76,57300271.36,1.5,33,63,Spanish,18+
+MOV-0248,Movie-248,2008,Sci-Fi,Time Travel,Director-077,Paramount,UK,177833473.79,441951049.54,148031311.82,7.7,62,119,Japanese,General
+MOV-0249,Movie-249,2000,Comedy,Legal,Director-068,Sony Pictures,India,89613831.22,463912265.46,7539700.0,3.9,50,175,English,General
+MOV-0250,Movie-250,2007,Drama,Martial Arts,Director-038,Warner Bros,USA,121515235.23,497456457.41,-326379625.64,1.0,19,134,Japanese,General
+MOV-0251,Movie-251,2006,Sci-Fi,Slapstick,Director-059,Warner Bros,India,461317989.26,87360676.99,360818273.42,5.6,86,154,Japanese,13+
+MOV-0252,Movie-252,2017,Documentary,Satire,Director-065,Warner Bros,Japan,207127384.69,198422888.44,-360116087.84,1.4,69,166,Spanish,General
+MOV-0253,Movie-253,2007,Sci-Fi,Supernatural,Director-078,Disney,Australia,364905591.19,379240118.61,347437595.56,3.5,66,155,French,General
+MOV-0254,Movie-254,2000,Horror,Dystopian,Director-056,Universal Pictures,Australia,503913853.58,348162298.72,95664578.38,7.4,94,150,English,18+
+MOV-0255,Movie-255,2010,Comedy,Period Romance,Director-013,Universal Pictures,Canada,690704433.8,77371005.22,48702927.07,1.6,47,89,Spanish,General
+MOV-0256,Movie-256,2017,Sci-Fi,Teen,Director-090,Sony Pictures,Germany,40272827.7,408008645.93,809413600.21,8.6,39,166,French,18+
+MOV-0257,Movie-257,2022,Documentary,Supernatural,Director-015,Netflix Originals,France,799610988.51,112608065.63,549819665.31,1.0,68,61,French,18+
+MOV-0258,Movie-258,2009,Romance,Nature,Director-084,Sony Pictures,Germany,628272489.1,112296898.6,440904521.57,3.2,33,121,English,13+
+MOV-0259,Movie-259,2002,Romance,Adventure,Director-084,Sony Pictures,USA,82677272.92,268718724.24,-122038440.79,7.7,13,108,Mandarin,General
+MOV-0260,Movie-260,2006,Comedy,Rom-Com,Director-099,Paramount,UK,873705045.48,296673497.45,6349781.26,3.8,84,68,Japanese,General
+MOV-0261,Movie-261,2015,Romance,Rom-Com,Director-071,Warner Bros,Canada,920951528.13,290253060.81,593341378.77,1.9,54,151,Hindi,18+
+MOV-0262,Movie-262,2015,Drama,Legal,Director-093,Disney,USA,62016881.9,46197675.28,773703674.38,4.2,7,90,Japanese,13+
+MOV-0263,Movie-263,2019,Horror,Space Opera,Director-028,Universal Pictures,India,277600770.5,438791700.88,354335987.14,3.4,79,157,Japanese,General
+MOV-0264,Movie-264,2016,Romance,Psychological,Director-056,Disney,Japan,806395078.51,133167221.27,516035323.5,8.6,87,120,Hindi,13+
+MOV-0265,Movie-265,2001,Romance,Space Opera,Director-058,Warner Bros,India,748511430.69,65192703.18,289652883.71,3.8,14,179,Mandarin,18+
+MOV-0266,Movie-266,2000,Drama,Psychological,Director-030,Warner Bros,USA,185336498.34,444429665.89,63840440.72,8.1,87,138,French,General
+MOV-0267,Movie-267,2015,Horror,Space Opera,Director-053,Universal Pictures,Japan,210139974.01,477847923.37,-191768583.14,9.0,19,107,Hindi,13+
+MOV-0268,Movie-268,2011,Sci-Fi,Legal,Director-044,Paramount,Australia,371101630.69,431132744.82,79154774.74,4.9,54,84,Hindi,General
+MOV-0269,Movie-269,2004,Horror,Supernatural,Director-059,Netflix Originals,India,485038462.21,404853279.33,748496050.07,9.2,93,95,Spanish,General
+MOV-0270,Movie-270,2004,Action,Historical,Director-052,Sony Pictures,Germany,618636516.76,327793369.33,-315935464.94,4.4,20,67,Spanish,13+
+MOV-0271,Movie-271,2022,Comedy,Slapstick,Director-054,Paramount,USA,369544725.93,275653256.62,356188846.53,9.7,29,132,Spanish,General
+MOV-0272,Movie-272,2008,Comedy,Rom-Com,Director-094,Warner Bros,USA,463072181.42,43949886.58,-115785546.02,1.8,24,117,French,18+
+MOV-0273,Movie-273,2008,Action,Biographical,Director-013,Warner Bros,Germany,747723467.2,204522379.93,452897386.59,7.2,82,160,Hindi,General
+MOV-0274,Movie-274,2002,Drama,Teen,Director-041,Paramount,UK,37646519.69,186657914.25,-343443142.08,5.4,63,171,English,General
+MOV-0275,Movie-275,2018,Action,True Crime,Director-055,Sony Pictures,France,253184507.4,130247014.99,236889466.21,4.5,74,104,Hindi,13+
+MOV-0276,Movie-276,2015,Sci-Fi,Slapstick,Director-041,Sony Pictures,Germany,713636236.3,361848346.79,674871579.38,6.7,57,121,French,13+
+MOV-0277,Movie-277,2015,Sci-Fi,Satire,Director-086,Warner Bros,Australia,895311630.85,248189929.67,341426496.49,7.3,8,98,Spanish,13+
+MOV-0278,Movie-278,2002,Comedy,Supernatural,Director-033,Netflix Originals,Australia,512165764.67,40982584.85,385148848.79,1.0,90,155,French,General
+MOV-0279,Movie-279,2019,Sci-Fi,Teen,Director-048,Sony Pictures,India,532581371.78,110481509.37,531718399.58,2.5,62,117,Spanish,13+
+MOV-0280,Movie-280,2023,Comedy,True Crime,Director-020,Sony Pictures,Australia,108064839.33,341787752.45,567433507.29,7.4,29,175,French,General
+MOV-0281,Movie-281,2021,Action,Space Opera,Director-088,Universal Pictures,Germany,447964954.46,38527364.32,-209776457.71,7.0,74,140,English,18+
+MOV-0282,Movie-282,2023,Action,Superhero,Director-061,Netflix Originals,Canada,533084649.19,425677853.57,359753010.86,9.7,17,158,Spanish,18+
+MOV-0283,Movie-283,2000,Romance,Biographical,Director-009,Universal Pictures,UK,243228033.13,247825690.24,-212618899.61,7.8,66,160,Spanish,General
+MOV-0284,Movie-284,2023,Romance,Biographical,Director-012,Disney,France,269973987.72,240552995.37,898378752.58,9.6,6,142,Hindi,General
+MOV-0285,Movie-285,2019,Action,Biographical,Director-011,Paramount,India,377906878.94,296407688.44,497914528.9,7.3,58,123,Mandarin,18+
+MOV-0286,Movie-286,2010,Comedy,Teen,Director-012,Warner Bros,Australia,21051126.58,412428142.48,130794947.98,3.7,69,103,Mandarin,18+
+MOV-0287,Movie-287,2016,Action,Rom-Com,Director-056,Sony Pictures,Germany,322757086.42,174230699.35,571564780.47,1.9,28,88,French,General
+MOV-0288,Movie-288,2007,Action,Superhero,Director-013,Disney,India,212236558.99,339169068.2,166170741.38,8.0,62,118,Japanese,18+
+MOV-0289,Movie-289,2003,Documentary,Space Opera,Director-096,Universal Pictures,USA,328169854.83,283083116.02,466444220.78,6.8,41,130,Japanese,18+
+MOV-0290,Movie-290,2005,Drama,Rom-Com,Director-095,Sony Pictures,France,120642369.69,133880620.95,-145813057.83,1.4,69,151,Hindi,General
+MOV-0291,Movie-291,2007,Action,Period Romance,Director-048,Paramount,Germany,890636753.46,439375678.18,344607519.67,4.2,82,68,French,13+
+MOV-0292,Movie-292,2019,Sci-Fi,Superhero,Director-017,Universal Pictures,Canada,593998861.1,398814297.79,-101317195.84,9.6,90,151,English,13+
+MOV-0293,Movie-293,2002,Comedy,Space Opera,Director-072,Netflix Originals,India,679423216.83,329396691.41,647021329.09,5.5,84,65,Hindi,18+
+MOV-0294,Movie-294,2015,Drama,Supernatural,Director-008,Netflix Originals,Japan,789382067.37,425365573.68,534886942.18,4.9,41,88,Spanish,General
+MOV-0295,Movie-295,2002,Romance,Supernatural,Director-076,Warner Bros,Japan,498943756.73,433713453.38,294825451.45,5.1,49,117,English,18+
+MOV-0296,Movie-296,2017,Horror,Slapstick,Director-072,Sony Pictures,France,87833367.8,354327306.87,-130812199.52,2.9,91,76,French,18+
+MOV-0297,Movie-297,2013,Comedy,Historical,Director-072,Disney,UK,537569435.28,418588157.52,216531311.82,4.3,49,75,Spanish,General
+MOV-0298,Movie-298,2017,Sci-Fi,Superhero,Director-043,Warner Bros,Japan,587254276.9,348886995.1,-92301545.81,4.3,76,146,Japanese,13+
+MOV-0299,Movie-299,2001,Comedy,Supernatural,Director-086,Sony Pictures,UK,745694034.71,340230315.49,-52299846.18,1.5,71,154,French,18+
+MOV-0300,Movie-300,2021,Romance,Martial Arts,Director-016,Sony Pictures,India,432227886.68,309496383.42,37786683.49,7.9,3,62,Spanish,18+
+MOV-0301,Movie-301,2002,Sci-Fi,Teen,Director-053,Sony Pictures,India,128452722.49,376481961.46,816703745.89,4.7,10,80,French,13+
+MOV-0302,Movie-302,2015,Sci-Fi,Superhero,Director-046,Sony Pictures,Australia,284492129.89,79723250.09,482833429.59,8.4,98,123,Spanish,General
+MOV-0303,Movie-303,2008,Horror,Satire,Director-086,Sony Pictures,France,363719214.1,440494944.22,131922051.26,8.7,89,149,French,General
+MOV-0304,Movie-304,2003,Comedy,Biographical,Director-097,Warner Bros,Canada,646271324.09,435985842.11,172134221.59,2.9,35,95,Mandarin,General
+MOV-0305,Movie-305,2000,Documentary,Slapstick,Director-055,Paramount,USA,571207526.36,15109017.88,73216582.65,6.9,80,165,Japanese,General
+MOV-0306,Movie-306,2003,Horror,Space Opera,Director-093,Paramount,Germany,356740629.17,412995466.91,275245520.38,5.3,2,160,Hindi,General
+MOV-0307,Movie-307,2000,Documentary,Time Travel,Director-007,Warner Bros,Japan,986528733.54,64870498.8,205509928.81,8.9,24,176,Spanish,18+
+MOV-0308,Movie-308,2013,Horror,True Crime,Director-037,Netflix Originals,Canada,606169044.54,167891867.7,742961295.41,2.9,74,145,Spanish,18+
+MOV-0309,Movie-309,2020,Comedy,Satire,Director-077,Paramount,Australia,237989564.94,371882374.02,76663466.66,7.1,38,121,Japanese,13+
+MOV-0310,Movie-310,2015,Action,Supernatural,Director-040,Disney,Germany,102680690.15,80799568.08,756257916.69,6.5,22,101,Mandarin,13+
+MOV-0311,Movie-311,2019,Action,Supernatural,Director-046,Disney,France,153706280.05,409074528.55,362010616.25,3.7,26,135,Hindi,13+
+MOV-0312,Movie-312,2023,Romance,True Crime,Director-014,Netflix Originals,Germany,246711770.66,416151021.89,-107951994.24,2.2,43,101,French,13+
+MOV-0313,Movie-313,2007,Horror,Supernatural,Director-074,Warner Bros,USA,161520691.89,253980133.01,867095381.02,6.9,55,120,Spanish,General
+MOV-0314,Movie-314,2006,Drama,Time Travel,Director-065,Disney,Germany,187380457.03,3689742.92,-221000660.77,7.6,39,72,Hindi,General
+MOV-0315,Movie-315,2002,Horror,Martial Arts,Director-028,Warner Bros,France,285810073.53,143875547.52,654742803.07,3.8,91,70,French,13+
+MOV-0316,Movie-316,2016,Horror,Rom-Com,Director-020,Disney,Canada,174200221.7,308654995.73,37922235.44,6.8,29,113,Spanish,18+
+MOV-0317,Movie-317,2000,Horror,Nature,Director-085,Universal Pictures,USA,896868659.2,490602495.92,842810592.62,4.6,20,75,Spanish,General
+MOV-0318,Movie-318,2015,Documentary,Rom-Com,Director-062,Netflix Originals,UK,81153511.92,316090856.74,780335355.55,7.4,91,67,Mandarin,General
+MOV-0319,Movie-319,2011,Romance,Legal,Director-029,Netflix Originals,Australia,524986878.18,130271888.74,378178713.89,2.8,41,163,Mandarin,18+
+MOV-0320,Movie-320,2018,Action,Superhero,Director-014,Netflix Originals,Germany,410986430.16,317185848.7,676264217.14,9.0,54,118,Mandarin,18+
+MOV-0321,Movie-321,2021,Romance,Slapstick,Director-045,Warner Bros,India,982396238.29,270222697.17,-113227582.1,3.6,20,116,French,18+
+MOV-0322,Movie-322,2022,Romance,Dystopian,Director-072,Sony Pictures,Japan,112926863.27,390032774.88,-58160042.41,4.3,19,99,Japanese,18+
+MOV-0323,Movie-323,2021,Romance,Slapstick,Director-048,Netflix Originals,Germany,398457743.45,53936829.09,81957684.51,1.5,84,168,Hindi,18+
+MOV-0324,Movie-324,2013,Action,Supernatural,Director-015,Disney,UK,969500962.84,380633437.3,-172877221.0,2.0,99,118,Spanish,13+
+MOV-0325,Movie-325,2005,Action,Teen,Director-098,Universal Pictures,Germany,865641618.77,270862656.05,438685088.62,5.6,66,61,French,18+
+MOV-0326,Movie-326,2005,Horror,Supernatural,Director-036,Warner Bros,France,817254998.88,481514505.93,193750943.8,3.4,30,153,Spanish,General
+MOV-0327,Movie-327,2012,Romance,Superhero,Director-074,Disney,Canada,258644924.22,171265146.94,868918724.66,8.5,53,153,French,18+
+MOV-0328,Movie-328,2018,Drama,Legal,Director-029,Sony Pictures,Canada,171716699.8,316494635.62,624253022.66,1.1,34,135,Spanish,13+
+MOV-0329,Movie-329,2021,Documentary,Legal,Director-055,Disney,India,668974576.7,466048038.7,670336855.65,4.4,22,69,English,General
+MOV-0330,Movie-330,2007,Documentary,Historical,Director-072,Netflix Originals,Australia,929446613.14,51703609.13,-193362665.8,4.0,67,103,Japanese,18+
+MOV-0331,Movie-331,2001,Action,Martial Arts,Director-099,Universal Pictures,India,557206130.12,468645629.37,392969210.98,1.2,6,70,Hindi,18+
+MOV-0332,Movie-332,2020,Comedy,Rom-Com,Director-080,Netflix Originals,Australia,572041076.78,344098918.29,487167794.43,2.1,79,138,Japanese,18+
+MOV-0333,Movie-333,2000,Comedy,True Crime,Director-079,Paramount,France,280699114.57,34384611.02,104425501.02,4.7,27,139,Japanese,General
+MOV-0334,Movie-334,2014,Comedy,Time Travel,Director-087,Netflix Originals,Japan,769723440.26,150831301.69,212317236.86,5.4,10,140,Hindi,18+
+MOV-0335,Movie-335,2000,Sci-Fi,Nature,Director-083,Paramount,Australia,187856704.81,354231958.28,432385031.82,4.6,73,149,Mandarin,13+
+MOV-0336,Movie-336,2004,Horror,Slasher,Director-072,Netflix Originals,Canada,324355557.17,34141625.43,45150503.28,5.8,97,61,Japanese,13+
+MOV-0337,Movie-337,2015,Comedy,Dystopian,Director-004,Universal Pictures,Canada,426011002.18,291294144.86,49419592.55,6.4,96,109,English,18+
+MOV-0338,Movie-338,2018,Horror,Rom-Com,Director-078,Universal Pictures,UK,508102768.31,173268586.95,63733574.95,1.1,48,71,Mandarin,General
+MOV-0339,Movie-339,2003,Comedy,Biographical,Director-085,Warner Bros,Australia,243167322.68,310647301.12,-133212477.0,5.2,70,174,French,General
+MOV-0340,Movie-340,2002,Drama,Superhero,Director-089,Netflix Originals,France,115721987.91,23348145.89,312227648.0,9.7,59,149,Mandarin,13+
+MOV-0341,Movie-341,2016,Horror,Rom-Com,Director-035,Paramount,UK,611009422.4,435832634.67,-154700107.06,5.7,100,82,Hindi,13+
+MOV-0342,Movie-342,2016,Comedy,Time Travel,Director-004,Warner Bros,UK,289341922.69,486757740.1,-203662861.42,7.1,59,77,French,General
+MOV-0343,Movie-343,2011,Documentary,True Crime,Director-024,Disney,USA,581656983.2,484454488.72,-296318400.09,3.8,2,121,Spanish,General
+MOV-0344,Movie-344,2013,Action,Historical,Director-035,Universal Pictures,Canada,155208352.56,374951089.96,689601210.49,8.0,29,155,Mandarin,13+
+MOV-0345,Movie-345,2020,Horror,Adventure,Director-090,Warner Bros,India,481658961.75,65478076.95,359469932.15,8.0,68,172,English,18+
+MOV-0346,Movie-346,2005,Documentary,Period Romance,Director-098,Universal Pictures,India,533056843.12,379252466.37,477444574.9,5.7,65,121,French,18+
+MOV-0347,Movie-347,2002,Documentary,Period Romance,Director-040,Warner Bros,France,52771713.29,12781164.77,377260444.09,9.8,83,97,Mandarin,General
+MOV-0348,Movie-348,2008,Documentary,Legal,Director-044,Disney,Australia,337267673.92,11550713.99,100941377.01,2.1,26,170,French,18+
+MOV-0349,Movie-349,2004,Sci-Fi,Space Opera,Director-045,Disney,UK,135280262.26,162143304.47,485144395.73,1.2,89,126,Hindi,General
+MOV-0350,Movie-350,2023,Action,Slasher,Director-001,Sony Pictures,Canada,64311595.5,244577273.61,69990068.62,7.9,10,97,Mandarin,13+
+MOV-0351,Movie-351,2016,Action,Dystopian,Director-024,Paramount,Australia,989970272.16,385318505.19,-352520218.25,8.3,53,126,Spanish,13+
+MOV-0352,Movie-352,2013,Romance,Psychological,Director-019,Sony Pictures,UK,323031491.13,341806040.61,500806842.27,2.1,79,153,Hindi,General
+MOV-0353,Movie-353,2020,Sci-Fi,Legal,Director-073,Paramount,Australia,810064571.41,223228401.84,-212419523.23,3.4,59,120,Spanish,13+
+MOV-0354,Movie-354,2002,Documentary,Biographical,Director-085,Disney,USA,255386014.11,137176519.81,473505360.83,1.2,22,60,Mandarin,18+
+MOV-0355,Movie-355,2000,Action,Superhero,Director-052,Warner Bros,Australia,681821219.5,498563687.83,195121195.56,3.6,51,153,Hindi,13+
+MOV-0356,Movie-356,2019,Action,Teen,Director-009,Netflix Originals,India,760467632.03,213377560.47,-224231142.57,8.0,48,104,Mandarin,13+
+MOV-0357,Movie-357,2020,Documentary,Dystopian,Director-019,Universal Pictures,Japan,596043101.87,225967818.65,-340262657.55,5.7,21,155,French,18+
+MOV-0358,Movie-358,2022,Documentary,True Crime,Director-095,Disney,Australia,472104612.36,82230098.69,771486549.96,4.1,22,87,French,18+
+MOV-0359,Movie-359,2000,Comedy,Historical,Director-082,Disney,USA,412429073.23,397507369.6,-21083150.01,4.3,100,80,English,General
+MOV-0360,Movie-360,2002,Comedy,Dystopian,Director-004,Warner Bros,Australia,349519398.28,346994271.78,-304366528.83,1.0,98,169,French,13+
+MOV-0361,Movie-361,2017,Horror,Nature,Director-012,Netflix Originals,Germany,929599615.1,110774421.59,842148278.71,3.7,30,72,Japanese,General
+MOV-0362,Movie-362,2009,Horror,Psychological,Director-096,Disney,USA,830788788.38,41649332.29,-356059854.66,6.8,25,86,French,General
+MOV-0363,Movie-363,2021,Horror,Period Romance,Director-068,Disney,Japan,965061883.76,340409401.39,554220355.02,9.8,28,159,Japanese,18+
+MOV-0364,Movie-364,2002,Comedy,Biographical,Director-028,Warner Bros,Germany,125172926.26,327428351.53,547254703.47,8.6,65,66,French,General
+MOV-0365,Movie-365,2007,Documentary,Space Opera,Director-049,Disney,USA,731136607.73,136993133.74,183207019.1,1.2,45,81,Japanese,General
+MOV-0366,Movie-366,2013,Horror,Period Romance,Director-054,Paramount,Canada,938402116.36,475456349.34,-208884026.42,9.1,68,133,Japanese,13+
+MOV-0367,Movie-367,2023,Action,Adventure,Director-059,Paramount,UK,182051833.1,75953416.94,-148315334.6,8.0,7,162,Mandarin,General
+MOV-0368,Movie-368,2017,Comedy,Historical,Director-044,Netflix Originals,USA,67429771.1,216451233.12,255252904.56,8.0,49,112,French,General
+MOV-0369,Movie-369,2014,Horror,Historical,Director-021,Paramount,Japan,741379528.64,471836152.12,-19381202.02,5.1,9,138,Japanese,General
+MOV-0370,Movie-370,2021,Action,Rom-Com,Director-048,Paramount,France,574898640.07,210153794.8,685773364.23,4.6,36,138,English,13+
+MOV-0371,Movie-371,2022,Horror,Nature,Director-040,Disney,UK,841986947.98,319443710.86,-171420092.42,3.7,83,63,Spanish,18+
+MOV-0372,Movie-372,2001,Drama,Historical,Director-093,Universal Pictures,USA,140632604.25,199098401.78,358930708.27,1.6,1,155,Mandarin,13+
+MOV-0373,Movie-373,2009,Documentary,Period Romance,Director-042,Paramount,UK,795472044.55,137470493.57,697320593.59,3.1,10,82,Japanese,18+
+MOV-0374,Movie-374,2001,Documentary,Legal,Director-100,Netflix Originals,Australia,202425692.73,491996835.16,665186014.29,3.2,36,178,Japanese,18+
+MOV-0375,Movie-375,2016,Horror,Psychological,Director-073,Paramount,USA,164492286.92,204962336.15,465294622.6,5.4,73,129,Mandarin,18+
+MOV-0376,Movie-376,2007,Drama,Adventure,Director-077,Disney,Germany,165101532.13,447102552.24,-64777635.6,7.7,46,147,English,13+
+MOV-0377,Movie-377,2000,Horror,Adventure,Director-011,Sony Pictures,Japan,814760145.51,115362325.64,599724593.88,5.3,32,143,English,13+
+MOV-0378,Movie-378,2008,Romance,Historical,Director-007,Disney,India,665532023.48,106945799.66,76018372.35,1.5,32,160,Hindi,18+
+MOV-0379,Movie-379,2010,Romance,Adventure,Director-020,Warner Bros,India,523542359.34,16051474.4,451495.25,9.6,6,143,Mandarin,13+
+MOV-0380,Movie-380,2021,Documentary,True Crime,Director-021,Netflix Originals,Japan,359471653.64,326007579.28,-202488772.91,9.5,48,135,Mandarin,General
+MOV-0381,Movie-381,2015,Sci-Fi,Nature,Director-097,Paramount,France,877323340.27,184578908.69,589903436.76,8.1,38,92,Spanish,18+
+MOV-0382,Movie-382,2006,Romance,Teen,Director-080,Warner Bros,Japan,393052662.32,432246945.79,4129766.35,9.9,17,87,Hindi,18+
+MOV-0383,Movie-383,2009,Romance,Supernatural,Director-007,Paramount,Australia,816782840.03,236868348.39,102355464.63,5.9,74,67,Mandarin,18+
+MOV-0384,Movie-384,2022,Horror,Superhero,Director-087,Sony Pictures,Japan,439695773.66,484112617.24,328446495.01,9.7,27,60,Japanese,18+
+MOV-0385,Movie-385,2002,Comedy,Space Opera,Director-011,Universal Pictures,Japan,377567485.0,93169995.09,294580292.91,1.7,54,96,English,General
+MOV-0386,Movie-386,2017,Comedy,Space Opera,Director-035,Sony Pictures,UK,463217105.88,434377272.39,430318507.46,4.3,50,122,Japanese,13+
+MOV-0387,Movie-387,2023,Drama,Period Romance,Director-057,Disney,India,302076496.29,388410127.97,716062967.95,3.0,35,81,Mandarin,General
+MOV-0388,Movie-388,2012,Comedy,Nature,Director-085,Disney,France,747861770.8,385575461.4,477923574.62,2.8,85,129,Mandarin,13+
+MOV-0389,Movie-389,2006,Action,Rom-Com,Director-055,Warner Bros,UK,503217669.7,422469222.44,-485700806.17,2.3,25,80,Mandarin,General
+MOV-0390,Movie-390,2003,Sci-Fi,Dystopian,Director-063,Warner Bros,India,232980482.45,380631483.48,-11182354.69,6.6,28,155,French,18+
+MOV-0391,Movie-391,2012,Romance,Historical,Director-078,Disney,Japan,899674998.7,313297050.65,220900685.81,8.0,15,94,Spanish,General
+MOV-0392,Movie-392,2019,Sci-Fi,Period Romance,Director-057,Netflix Originals,India,384507330.15,66056816.4,-12115549.64,6.2,4,138,French,General
+MOV-0393,Movie-393,2000,Action,Superhero,Director-054,Disney,Canada,544009308.25,16746826.66,-155217674.9,2.3,93,64,English,18+
+MOV-0394,Movie-394,2007,Romance,Teen,Director-035,Disney,USA,906565638.85,460463499.98,460839768.46,8.3,73,119,English,13+
+MOV-0395,Movie-395,2013,Drama,Nature,Director-028,Paramount,USA,624613757.92,308516832.1,80063563.99,6.7,27,179,English,13+
+MOV-0396,Movie-396,2015,Action,Rom-Com,Director-097,Sony Pictures,Germany,117781142.67,398370376.84,488393107.55,4.5,26,105,Spanish,18+
+MOV-0397,Movie-397,2013,Action,Legal,Director-066,Netflix Originals,Australia,939892291.49,241020414.58,-238871926.16,7.1,19,109,Hindi,18+
+MOV-0398,Movie-398,2011,Sci-Fi,Martial Arts,Director-015,Paramount,Japan,628080345.02,59095440.39,-321656877.47,3.3,92,107,Japanese,18+
+MOV-0399,Movie-399,2018,Horror,Slasher,Director-045,Universal Pictures,Japan,335570709.04,63030303.21,-172768500.12,4.1,17,65,Mandarin,18+
+MOV-0400,Movie-400,2022,Sci-Fi,Slapstick,Director-056,Netflix Originals,Canada,140132800.59,342939860.97,536347920.46,9.3,43,148,Japanese,18+
+MOV-0401,Movie-401,2014,Documentary,Slasher,Director-015,Paramount,Canada,794231164.08,215437794.5,515635284.92,3.6,41,115,Japanese,General
+MOV-0402,Movie-402,2001,Sci-Fi,Rom-Com,Director-037,Disney,Australia,620452683.17,100662100.99,700652614.98,5.2,42,169,Japanese,13+
+MOV-0403,Movie-403,2001,Comedy,Psychological,Director-087,Paramount,France,533927630.88,246051476.1,272867698.43,9.0,50,118,Mandarin,18+
+MOV-0404,Movie-404,2022,Action,Legal,Director-087,Warner Bros,India,893998690.47,32572364.07,-48188358.12,7.4,84,179,Japanese,13+
+MOV-0405,Movie-405,2021,Sci-Fi,Period Romance,Director-076,Netflix Originals,Germany,788808614.01,291194715.26,330830847.04,1.6,40,163,Hindi,18+
+MOV-0406,Movie-406,2018,Action,Supernatural,Director-063,Disney,Canada,152523204.85,134862205.52,67870069.19,2.3,39,88,French,General
+MOV-0407,Movie-407,2021,Documentary,Slasher,Director-068,Sony Pictures,UK,312410345.73,398880770.77,543351971.86,1.1,23,130,Spanish,General
+MOV-0408,Movie-408,2021,Comedy,Psychological,Director-086,Paramount,USA,249240650.67,155525798.48,-347330885.13,6.7,96,163,French,General
+MOV-0409,Movie-409,2016,Action,Rom-Com,Director-040,Disney,Japan,744202346.28,227882464.47,266784578.7,5.0,52,136,French,General
+MOV-0410,Movie-410,2019,Sci-Fi,Satire,Director-006,Netflix Originals,USA,34498902.3,6304459.68,-152842628.54,2.2,47,161,Mandarin,13+
+MOV-0411,Movie-411,2009,Action,Time Travel,Director-029,Warner Bros,Canada,570319795.19,36687220.45,9513128.19,9.6,63,77,Japanese,General
+MOV-0412,Movie-412,2005,Romance,Slapstick,Director-051,Warner Bros,Canada,762696227.05,196550531.43,441566987.74,5.8,97,61,Mandarin,13+
+MOV-0413,Movie-413,2014,Documentary,Historical,Director-077,Netflix Originals,UK,876888871.12,240229447.94,125076541.58,3.2,69,67,Japanese,18+
+MOV-0414,Movie-414,2021,Comedy,Legal,Director-008,Netflix Originals,UK,342739666.97,300210263.79,257414379.41,5.5,43,134,Hindi,18+
+MOV-0415,Movie-415,2010,Horror,Biographical,Director-001,Paramount,USA,821436047.37,146185458.07,138656095.41,7.1,48,156,Spanish,General
+MOV-0416,Movie-416,2004,Action,Legal,Director-027,Disney,Australia,111521105.22,347643452.12,407427032.63,1.7,34,113,English,13+
+MOV-0417,Movie-417,2000,Sci-Fi,Legal,Director-039,Sony Pictures,USA,846605839.44,430131137.4,592668119.13,3.5,40,97,French,18+
+MOV-0418,Movie-418,2007,Comedy,Time Travel,Director-028,Netflix Originals,Canada,128361173.67,390035568.95,648102903.47,8.3,75,107,English,18+
+MOV-0419,Movie-419,2020,Sci-Fi,Slasher,Director-099,Netflix Originals,USA,397890003.27,20289603.26,629093334.17,5.1,61,86,Spanish,18+
+MOV-0420,Movie-420,2011,Sci-Fi,Psychological,Director-018,Universal Pictures,Japan,797498070.41,240513220.16,311826222.1,5.9,50,79,French,18+
+MOV-0421,Movie-421,2011,Action,Supernatural,Director-098,Warner Bros,Australia,150767509.92,52912624.12,15566281.11,4.9,67,71,English,General
+MOV-0422,Movie-422,2004,Sci-Fi,Legal,Director-033,Universal Pictures,Canada,230022143.84,121401485.42,316521410.25,1.4,62,102,English,General
+MOV-0423,Movie-423,2006,Action,True Crime,Director-038,Sony Pictures,Canada,722530315.82,493337965.34,184785624.21,2.5,58,120,Mandarin,General
+MOV-0424,Movie-424,2003,Horror,Supernatural,Director-042,Netflix Originals,USA,720316500.01,71676523.68,-61819012.25,5.0,33,90,Hindi,18+
+MOV-0425,Movie-425,2005,Romance,Biographical,Director-016,Paramount,India,641506485.25,249694632.65,805100065.89,2.9,75,150,Spanish,General
+MOV-0426,Movie-426,2012,Sci-Fi,Rom-Com,Director-001,Warner Bros,Germany,694254496.02,309268789.29,-88180672.02,1.4,16,155,Spanish,18+
+MOV-0427,Movie-427,2019,Sci-Fi,Space Opera,Director-064,Universal Pictures,Canada,543181718.9,351381252.79,720614610.09,8.6,82,120,Spanish,General
+MOV-0428,Movie-428,2014,Sci-Fi,Rom-Com,Director-096,Warner Bros,France,252547259.85,280044517.4,225505556.33,9.8,94,133,French,General
+MOV-0429,Movie-429,2002,Drama,Adventure,Director-056,Universal Pictures,France,346350297.51,5380538.29,614262726.95,8.1,48,126,Hindi,13+
+MOV-0430,Movie-430,2022,Drama,Period Romance,Director-023,Netflix Originals,Canada,182416119.08,163567423.47,589252531.56,8.7,10,168,Japanese,13+
+MOV-0431,Movie-431,2007,Comedy,Period Romance,Director-017,Disney,Germany,908542110.77,259096965.87,756453876.22,3.2,82,150,French,18+
+MOV-0432,Movie-432,2019,Romance,Psychological,Director-049,Disney,India,583808402.97,44389316.32,151252433.38,9.6,38,94,Spanish,18+
+MOV-0433,Movie-433,2015,Romance,True Crime,Director-069,Paramount,Canada,401450565.35,175638152.14,448311821.13,2.8,19,154,French,18+
+MOV-0434,Movie-434,2012,Drama,Rom-Com,Director-091,Sony Pictures,Japan,462543797.84,17084952.84,-173694120.01,9.6,36,74,English,13+
+MOV-0435,Movie-435,2017,Comedy,Superhero,Director-030,Warner Bros,Germany,947336056.27,39749959.33,420438806.41,10.0,59,75,French,General
+MOV-0436,Movie-436,2009,Drama,Time Travel,Director-065,Sony Pictures,Germany,154198051.71,198763176.46,-154565813.69,7.4,63,72,Mandarin,13+
+MOV-0437,Movie-437,2018,Horror,Biographical,Director-072,Universal Pictures,USA,586643602.18,66791519.14,596995068.8,9.8,77,172,Mandarin,General
+MOV-0438,Movie-438,2016,Comedy,Historical,Director-086,Netflix Originals,India,506382790.21,283986653.71,408816905.96,6.1,46,94,French,18+
+MOV-0439,Movie-439,2023,Romance,Martial Arts,Director-046,Paramount,Japan,611842781.2,344887752.08,422019523.52,3.3,3,175,Spanish,13+
+MOV-0440,Movie-440,2018,Romance,Slasher,Director-010,Disney,Australia,19092073.64,400393056.2,39381081.02,4.9,74,134,English,18+
+MOV-0441,Movie-441,2022,Drama,Rom-Com,Director-051,Disney,USA,872251785.04,100475047.0,81379039.72,6.3,65,118,Spanish,General
+MOV-0442,Movie-442,2004,Horror,Psychological,Director-095,Paramount,France,932186164.2,84157549.84,606682194.53,1.7,91,80,English,General
+MOV-0443,Movie-443,2020,Drama,Slapstick,Director-006,Warner Bros,Japan,565568050.41,52731636.25,54169931.09,6.6,8,174,Mandarin,13+
+MOV-0444,Movie-444,2022,Documentary,Supernatural,Director-056,Sony Pictures,France,696954173.05,318396909.65,17726606.85,9.8,51,113,English,13+
+MOV-0445,Movie-445,2008,Action,Legal,Director-003,Universal Pictures,Japan,922576881.8,353384625.38,-156664527.59,2.7,81,134,English,13+
+MOV-0446,Movie-446,2011,Action,Period Romance,Director-059,Sony Pictures,Japan,707531395.68,16277279.34,555153349.95,8.1,73,89,Spanish,18+
+MOV-0447,Movie-447,2020,Horror,Rom-Com,Director-010,Disney,India,153386503.87,468138017.0,451532553.74,9.2,6,107,Mandarin,General
+MOV-0448,Movie-448,2000,Sci-Fi,Historical,Director-041,Paramount,Germany,576712071.81,26459656.18,97320627.98,9.5,89,176,English,13+
+MOV-0449,Movie-449,2000,Sci-Fi,True Crime,Director-074,Disney,Japan,607108331.34,270877519.48,150141378.51,9.6,39,94,Mandarin,18+
+MOV-0450,Movie-450,2014,Action,True Crime,Director-055,Netflix Originals,India,424706540.63,354675729.47,-115557456.34,5.7,60,145,Hindi,18+
+MOV-0451,Movie-451,2001,Action,Supernatural,Director-074,Disney,Australia,736707791.39,435549077.31,576069864.55,9.8,28,97,Mandarin,18+
+MOV-0452,Movie-452,2021,Sci-Fi,Teen,Director-052,Universal Pictures,Canada,934432647.75,357186422.6,617706403.44,7.8,97,90,Hindi,General
+MOV-0453,Movie-453,2015,Comedy,Historical,Director-091,Warner Bros,Canada,925642944.39,400963177.49,-122714352.5,2.5,54,137,Japanese,13+
+MOV-0454,Movie-454,2007,Sci-Fi,True Crime,Director-082,Warner Bros,Germany,451388532.03,170055371.18,117572948.46,5.3,37,83,Hindi,13+
+MOV-0455,Movie-455,2012,Drama,Martial Arts,Director-054,Netflix Originals,India,114124807.79,407505144.32,-73641705.77,7.5,9,173,Japanese,18+
+MOV-0456,Movie-456,2020,Comedy,Superhero,Director-038,Universal Pictures,Australia,984856357.76,40517365.77,406690153.59,3.2,82,108,Hindi,13+
+MOV-0457,Movie-457,2000,Drama,Teen,Director-015,Paramount,USA,839059188.36,447460919.7,327434138.48,6.8,56,155,Spanish,General
+MOV-0458,Movie-458,2015,Action,Biographical,Director-052,Sony Pictures,Japan,125538018.52,274022391.89,18754865.02,7.0,59,159,Japanese,13+
+MOV-0459,Movie-459,2006,Comedy,Rom-Com,Director-003,Paramount,Japan,920921040.73,408740236.1,-329354237.56,2.5,85,91,French,18+
+MOV-0460,Movie-460,2004,Drama,Slasher,Director-042,Sony Pictures,India,870026465.7,226432983.12,-413322515.27,6.1,2,114,French,General
+MOV-0461,Movie-461,2021,Drama,True Crime,Director-022,Warner Bros,Japan,519319219.07,321967058.75,901713359.42,7.9,61,138,Hindi,13+
+MOV-0462,Movie-462,2022,Comedy,Rom-Com,Director-080,Disney,Canada,591684160.31,263438129.14,158420935.7,5.5,58,166,French,General
+MOV-0463,Movie-463,2002,Horror,Slasher,Director-059,Disney,Germany,399603701.17,365928966.12,571863174.93,1.1,60,117,Mandarin,13+
+MOV-0464,Movie-464,2011,Documentary,Period Romance,Director-089,Netflix Originals,Canada,55706877.18,41274176.02,413835730.11,1.1,40,158,Hindi,General
+MOV-0465,Movie-465,2015,Sci-Fi,Superhero,Director-047,Paramount,France,335862044.4,30645865.95,176752672.92,4.2,36,62,Hindi,18+
+MOV-0466,Movie-466,2018,Romance,Biographical,Director-012,Universal Pictures,UK,803050595.15,123928065.39,-247370120.84,9.3,37,139,Mandarin,18+
+MOV-0467,Movie-467,2004,Drama,Historical,Director-056,Sony Pictures,Australia,5627390.98,80192567.72,-234894274.17,3.1,79,128,Mandarin,18+
+MOV-0468,Movie-468,2021,Sci-Fi,Historical,Director-014,Disney,France,334165672.52,435955891.51,311249300.63,6.7,92,144,French,General
+MOV-0469,Movie-469,2013,Documentary,Slapstick,Director-032,Netflix Originals,UK,398770524.9,109997386.69,619827474.28,3.0,18,69,French,General
+MOV-0470,Movie-470,2004,Romance,Space Opera,Director-056,Paramount,Canada,537858207.33,487944695.28,232277052.37,3.9,98,142,English,18+
+MOV-0471,Movie-471,2014,Sci-Fi,Time Travel,Director-076,Universal Pictures,USA,919935760.8,168779447.99,53219105.63,8.6,63,84,Mandarin,18+
+MOV-0472,Movie-472,2016,Action,Nature,Director-052,Warner Bros,Germany,346999648.37,91467898.89,-367779269.93,7.6,22,127,Japanese,General
+MOV-0473,Movie-473,2013,Romance,Slapstick,Director-068,Universal Pictures,Japan,347606248.69,394954404.32,967238518.77,1.9,11,120,Hindi,General
+MOV-0474,Movie-474,2019,Documentary,Martial Arts,Director-011,Warner Bros,USA,737763746.86,329524533.86,480532993.06,4.9,58,88,French,General
+MOV-0475,Movie-475,2004,Sci-Fi,Historical,Director-051,Paramount,UK,452765722.95,249348760.37,267487091.63,1.3,57,78,Japanese,General
+MOV-0476,Movie-476,2011,Drama,Time Travel,Director-040,Universal Pictures,Canada,225380218.12,277904093.69,850815552.47,5.3,77,102,French,General
+MOV-0477,Movie-477,2015,Romance,Rom-Com,Director-096,Netflix Originals,Canada,452987076.62,359741288.25,572047120.22,7.0,4,125,French,13+
+MOV-0478,Movie-478,2015,Action,Dystopian,Director-044,Paramount,Australia,141716163.36,114613143.29,280744406.8,2.1,86,133,English,13+
+MOV-0479,Movie-479,2020,Comedy,Rom-Com,Director-029,Warner Bros,Canada,177210599.52,498168791.07,404873444.46,3.6,7,120,Mandarin,13+
+MOV-0480,Movie-480,2006,Drama,Period Romance,Director-043,Netflix Originals,France,498869404.97,487409184.49,754271443.09,4.6,61,102,Hindi,General
+MOV-0481,Movie-481,2003,Action,Supernatural,Director-100,Disney,Germany,419506524.06,325337680.33,464594606.64,9.3,54,84,Hindi,General
+MOV-0482,Movie-482,2000,Action,Rom-Com,Director-022,Netflix Originals,USA,914931055.17,100171454.24,-99422485.6,9.9,88,79,Spanish,General
+MOV-0483,Movie-483,2004,Romance,Historical,Director-010,Disney,Canada,363031505.22,340274007.09,154087254.12,1.4,68,107,Mandarin,18+
+MOV-0484,Movie-484,2022,Sci-Fi,Legal,Director-066,Netflix Originals,Canada,581007761.93,36563105.29,867203568.94,7.8,92,142,English,18+
+MOV-0485,Movie-485,2009,Comedy,Dystopian,Director-082,Warner Bros,UK,632632023.63,15810924.85,15626575.03,4.3,79,146,Japanese,18+
+MOV-0486,Movie-486,2021,Drama,Adventure,Director-015,Sony Pictures,Australia,14081362.13,129212602.81,-2918578.07,4.5,1,83,English,18+
+MOV-0487,Movie-487,2004,Drama,Legal,Director-068,Sony Pictures,Canada,663873834.64,231580166.89,396676477.63,7.8,55,70,Japanese,13+
+MOV-0488,Movie-488,2003,Sci-Fi,Legal,Director-066,Disney,Canada,178857930.9,434202116.45,399415667.67,9.3,3,169,Hindi,General
+MOV-0489,Movie-489,2001,Comedy,Psychological,Director-025,Disney,Japan,961109247.15,363720950.35,435618382.64,9.6,78,157,Spanish,13+
+MOV-0490,Movie-490,2019,Romance,Historical,Director-100,Universal Pictures,Canada,149514065.03,371481907.34,472240768.95,6.2,38,114,Spanish,General
+MOV-0491,Movie-491,2009,Drama,Historical,Director-045,Netflix Originals,France,415209499.6,213033920.56,-93000017.92,4.2,1,87,Hindi,13+
+MOV-0492,Movie-492,2018,Comedy,Rom-Com,Director-045,Netflix Originals,Germany,86264318.41,173294528.78,-217115768.43,8.1,38,128,French,18+
+MOV-0493,Movie-493,2000,Romance,Historical,Director-094,Netflix Originals,Japan,996877377.59,185833862.11,16993983.95,3.3,85,122,English,13+
+MOV-0494,Movie-494,2023,Romance,Superhero,Director-083,Netflix Originals,Australia,502692815.32,493830957.09,590004410.1,6.1,29,118,Spanish,13+
+MOV-0495,Movie-495,2004,Documentary,Psychological,Director-019,Universal Pictures,France,595789632.3,20534541.11,640604475.42,4.2,5,64,Mandarin,General
+MOV-0496,Movie-496,2012,Drama,Legal,Director-031,Disney,Germany,68009400.91,433582232.31,-31609092.73,6.9,74,110,French,18+
+MOV-0497,Movie-497,2003,Sci-Fi,Legal,Director-014,Sony Pictures,Germany,750210509.93,289548366.58,359444161.72,3.2,92,80,Japanese,13+
+MOV-0498,Movie-498,2015,Horror,Biographical,Director-019,Universal Pictures,France,210695687.5,219588401.89,555028178.93,2.7,21,71,Mandarin,General
+MOV-0499,Movie-499,2023,Drama,True Crime,Director-033,Warner Bros,Australia,898156235.15,362766201.38,409755376.92,9.3,71,109,Spanish,18+
+MOV-0500,Movie-500,2015,Documentary,Supernatural,Director-026,Universal Pictures,Australia,205934500.84,243591136.24,556883065.9,1.9,67,63,Japanese,18+
