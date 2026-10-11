@@ -1,0 +1,9 @@
+# Power BI temporary / backup files
+~$*
+*.pbix.bak
+.pbi/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
