@@ -1,16 +1,39 @@
 # Global Movie Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Calculated%20Columns-0078D4?style=flat)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Prep-217346?style=flat)
+
 An interactive **Power BI** report exploring box-office performance, profitability, critical reception, and audience trends across 500 films from 8 countries, 6 studios, and 7 genres (2000–2023).
 
 ![Dashboard overview](screenshots/01-dashboard-overview.png)
 
-## Highlights
+## At a glance
 
-- **6 report pages**: an overview dashboard plus five focused pages
-- **Interactive filtering** with a hierarchical Genre → Release Year slicer on the overview page
-- **Map visual** showing box-office gross by country
-- **Calculated columns** for profitability: Profit Margin and ROI
-- **Mixed visuals**: bar charts, treemap, filled map with pie markers, scatter plot, line chart, box-and-whisker plot, and a ranked table
+| | |
+|---|---|
+| **Goal** | Turn a flat 500-row movie dataset into a multi-page, filterable report on what drives box-office revenue and profit |
+| **Tools** | Power BI Desktop, Power Query, DAX, Bing Maps visual |
+| **Scope** | 6 report pages, 7 chart types, 2 calculated columns, 1 hierarchical slicer |
+| **Try it** | Download [`dashboard/Global Movie Dashboard.pbix`](dashboard/Global%20Movie%20Dashboard.pbix) and open it in Power BI Desktop, or browse the [screenshots](#report-pages) below |
+
+## Skills demonstrated
+
+- **Data modeling & DAX**: built `Profit Margin` and `ROI` calculated columns so profitability can be compared across films with very different budgets
+- **Report design**: an overview page for quick reading, plus five pages that each answer one business question
+- **Visual selection**: matched the chart type to the question: treemap for part-to-whole, box plot for distributions, scatter for correlation, map for geography
+- **Interactivity**: a cross-filtering Genre → Release Year slicer that updates every visual on the overview page
+
+## Key findings
+
+From the dataset (which is synthetic; see the [note](#dataset) below):
+
+- **Action leads total box office** at about $41.6B, while **Horror is lowest** at about $30.9B.
+- **Rom-Com, Period Romance, and Historical** are the most profitable sub-genres, each above $10B in total profit.
+- **Japan and India have the highest average gross per film** (about $620M and $548M), ahead of the USA (about $512M).
+- **About 1 in 4 films lost money** (25.2% have negative profit).
+- **Critics and audiences don't agree**: IMDb rating and Rotten Tomatoes score are essentially uncorrelated (r ≈ −0.03).
+- **Horror films are shortest** (median 108 min); **Drama runs longest** (median 123 min).
 
 ## Report pages
 
@@ -96,12 +119,6 @@ ROI           = DIVIDE ( global_movie_dataset[Profit], global_movie_dataset[Budg
 2. Clone or download this repository.
 3. Open `dashboard/Global Movie Dashboard.pbix`.
 4. If Power BI can't find the data source, go to **Transform data → Data source settings → Change Source** and point it to `data/global_movie_dataset.csv`, then click **Refresh**.
-
-## Tools
-
-- **Power BI Desktop**: data modeling, DAX, visualization
-- **Power Query**: data import and type handling
-- **Bing Maps** (built into Power BI): geographic visuals
 
 ## Author
 
